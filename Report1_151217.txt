@@ -1,0 +1,179 @@
+
+
+                                  Supplier Det
+
+
+
+     Vendor Name              Created By Employee      Vat Code   Start Dat
+     Raymond Miller           1000354    3064                     15-NOV-06
+     Rich, Lawrence Joseph    1000354    3253                     21-APR-04
+     Leonard, Judith          2189       13099         100PI21    21-JAN-05
+     Jamie Frost              1006       32
+     Allen, Bertie            1001406    4150          STD        29-APR-05
+     Cochran, Bob             1319       55                       10-JAN-01
+     Ana Lucia Braga Monteiro,2209       10313                    23-FEB-05
+     Ana
+     Edmilson Tostes,         2209       10419                    23-FEB-05
+     Stock, Pat               1318       25                       14-JUN-01
+     Eduardo Araujo Castor,   2209       10406                    23-FEB-05
+     Eduardo
+     Marcelo Aparecido Cafe,  2209       10425                    23-FEB-05
+     Boase, Alex              1001406    4157          STD        21-APR-05
+     Hassle, Chris            1001406    6186          STD        21-APR-05
+     Jordan, Michael Joseph   1000354    2984                     06-AUG-01
+     Mccartney, Paul John     1000354    2985                     06-AUG-01
+     Marley, Jo               1001406    6185          STD        30-MAY-05
+     Bart, Lou                1001406    4156          STD        29-APR-05
+     Pierson, Samuel          1000148    3170                     17-NOV-04
+     Struik                   2047       4762                     27-SEP-02
+     Bauer, Brigitte          2045       5228          16% VSt.   03-OCT-02
+     Lange, Dagmar            2045       5229          16% VSt.   03-OCT-02
+     Bartels, Stefan          2045       1725          16% VSt.   02-JUL-02
+     Francisco Luiz Rodrigues 1005207    10417                    19-FEB-03
+     Felix Santos Alonzo      1005207    10409                    19-FEB-03
+     Tucker, William          1318       6505                     27-FEB-03
+     Brown, Casey             1318       31                       27-FEB-03
+     Kasbergen, Cor           2047       12819         Nultarief  22-OCT-03
+     Paul Rochat              1004944    12552                    08-OCT-03
+     Berkelaar, Rob           2047       12793         Nultarief  22-OCT-03
+     Depardon, Raymond        2044       2139                     23-JAN-04
+     Valencia, Marianne       2044       4657                     26-JAN-04
+     Gasquet, Christelle      2044       13478                    02-APR-04
+     Elisabeth
+     Beckworth, Mark Andrew   1000354    5265                     21-APR-04
+     Sole, Samuel             1000148    14334                    17-AUG-04
+     Waters, Jean             1007953    11113                    26-AUG-04
+     S Crowther               1001406    4149                     22-FEB-02
+     Marty, Frederic          2044       1315                     23-JAN-04
+     Lamaury, Thibault        2044       1703                     26-JAN-04
+     Black, Chris             1493       26                       22-JUL-97
+     Ulrich, Jeffery          1318       5066                     06-MAY-04
+     Fernandez, Manny         1000354    11395                    21-APR-04
+     Duval, Jeanne            2189       13093         100PI21    21-JAN-05
+     Heather, Emily           1178       54                       14-APR-97
+     Gray, Donald             1319       4384                     10-JAN-01
+     Vermeulen, André         2189       1873          100PI21    21-JAN-05
+     Alcides Santos Lima,     2209       10410                    23-FEB-05
+
+
+                                  Supplier Det
+
+
+
+     Vendor Name              Created By Employee      Vat Code   Start Dat
+     Carmem Moraes,           2209       10416                    23-FEB-05
+     Dioclesiano Xavier,      2209       10418                    23-FEB-05
+     Tanghe, Martine          2189       1871          100PI21    21-JAN-05
+     Edmilton Ferraz,         2209       10408                    23-FEB-05
+     Jacir Trunfi,            2209       10355                    23-FEB-05
+     Jacobs, Lindsey          1001406    4147          STD        28-APR-05
+     Griggs, Phil             1001406    4148          STD        21-APR-05
+     Rowlands, Viv            1001406    10226         STD        21-APR-05
+     Scragg, Jamie            1001406    6192          STD        21-APR-05
+     Webb, Jean               1001406    4154          STD        21-APR-05
+     Chang, Amy               1000148    5096                     17-NOV-04
+     Wright, William          1000148    264                      17-NOV-04
+     Lasher, Tina Louise      1000354    2980                     20-FEB-01
+     Huber, Birgit            2045       2079          16% VSt.   07-AUG-01
+     Wass, Christian          2048       1312                     02-MAY-02
+     Svensson, Sven           2048       1717                     02-MAY-02
+     Walcher, Bernhard        2045       1603          16% VSt.   04-NOV-02
+     Lang, Inga R             1318       164                      27-FEB-03
+     Marsh, Chris             1318       6513                     27-FEB-03
+     Ruijter, Eveline         2047       2073          Nultarief  22-OCT-03
+     Bailey, Sara             1318       1273                     27-FEB-03
+     Bogini, Samuel           1318       10966                    27-FEB-03
+     Holst, Tristan           2047       11608         Nultarief  22-OCT-03
+     Blok, Angela             2047       12797         Nultarief  22-OCT-03
+     Faro, Patrick            2047       2067          Nultarief  22-OCT-03
+     Lacroix, Armand          2044       8690                     23-JAN-04
+     Lion, Sam                2044       2920                     23-JAN-04
+     Janse, Pieter            2047       2041          Nultarief  22-OCT-03
+     Kruithof, Piet           2047       12826         Nultarief  22-OCT-03
+     Mcgwire, Patrick         1000148    11047                    13-JAN-04
+     Erickson, Barry          1318       267                      14-AUG-03
+     Caroline, Bruno          2044       1786                     23-JAN-04
+     Mci                      1000354    2983                     06-AUG-01
+     C Morris                 1001406    4155                     22-FEB-02
+     Vioget, Oliver Xavier    2044       13481                    02-APR-04
+     Cagliastro, Joanne Lisa  1000354    3065                     21-APR-04
+     Jackson, Kwame           1000354    13657                    21-APR-04
+     Brown, Jane              1000354    3086                     14-APR-04
+     Sturbois, Pascal         2044       10741                    23-JAN-04
+     Dupont, Alain            2044       1581                     26-JAN-04
+     Pratt, John              1007953    13482                    26-AUG-04
+     Renner                   2045       1724                     08-FEB-01
+     Marlin, Amy              1319       53                       01-SEP-98
+     Lewis, David             1318       972                      06-MAY-04
+     Rochefort, Jean          2189       1874          100PI21    21-JAN-05
+     Hamilton, Anne           1178       56                       14-APR-97
+     Beckman, Lisa            1000148    5068                     16-AUG-04
+     Van Damme, Johan         2189       13103         100PI21    21-JAN-05
+     Vandenberghe, Jean       2189       13104         100PI21    21-JAN-05
+
+
+                                  Supplier Det
+
+
+
+     Vendor Name              Created By Employee      Vat Code   Start Dat
+     Andreia Da Silva, Andreia2209       10414                    23-FEB-05
+     Renato Teixeira Mendes,  2209       10407                    23-FEB-05
+     Renato
+     Edwards, Di              1001406    6193          STD        21-APR-05
+     Ambers, Ralph            1000148    3167                     17-NOV-04
+     Smith, Alex              1000148    1377                     17-NOV-04
+     Boursin, Elisabeth       2044       1314                     23-JAN-04
+     Kingston, Max            1614       298                      14-JUN-01
+     Copeland, Sandra         2330       2159                     20-FEB-04
+     Valérian, Pierre         2044       1784                     05-MAR-04
+     Marjolet, Didier Alain   2044       13479                    02-APR-04
+     Senaux, Martine Mirelle  2044       13480                    02-APR-04
+     J Blake                  1001406    4158                     22-FEB-02
+     Berthier, Alain          2044       2901                     26-JAN-04
+     Burnett, Mark            1000354    13659                    21-APR-04
+     Goldman, Pamela          1000148    6420                     12-FEB-04
+     Beckmann, Lisa           1318       5063                     06-MAY-04
+     Sanders, Austin          1319       2222                     16-MAY-00
+     Bontemps, Theodore       2189       13081         100PI21    21-JAN-05
+     Bontinck, Sonia          2189       13082         100PI21    21-JAN-05
+     Cappaert, Carine         2189       13086         100PI21    21-JAN-05
+     Claes, Bavo              2189       1872          100PI21    21-JAN-05
+     Coppens, Katelijne       2189       2015          100PI21    21-JAN-05
+     Massart, Robert          2189       13101         100PI21    21-JAN-05
+     Stoney, Pat              1001406    4153          STD        29-APR-05
+     Renola, Mary             1000148    5067                     17-NOV-04
+     Marcos Joselino Monjon,  2209       10413                    23-FEB-05
+     Marcos
+     Daniels, Nat             1001406    10266         STD        21-APR-05
+     Baker, Sandy             1001406    4151          STD        21-APR-05
+     Heib, Christiane         2045       1602          16% VSt.   04-NOV-02
+     Bakker                   2047       4760                     27-SEP-02
+     Becker, Oliver           2045       5224          16% VSt.   03-OCT-02
+     Cooper, Karen Michelle   2046       374           STD        07-JUN-02
+     Bonjean, Francisco       2189       13079         100PI21    21-JAN-05
+     Williams, Harrold        1318       10744                    27-FEB-03
+     Apt, Peter M.            1318       3165                     27-FEB-03
+     Katzberg, Susan          1318       6423                     27-FEB-03
+     Kievit, Rolf             2047       12822         Nultarief  22-OCT-03
+     Weinberg, Jerry          1318       3173                     05-AUG-03
+     Bloemers, Piet           2047       12796         Nultarief  22-OCT-03
+     Bastid, Alain            2044       7652                     23-JAN-04
+     Winslow, Wendy           1000148    14335                    17-AUG-04
+     P Sewell                 1001406    4152                     22-FEB-02
+     Dupont, Jean-Luc         2044       10743                    23-JAN-04
+     Valette, Anne-Caroline   2044       10742                    23-JAN-04
+     Martin, Fabienne         2044       1785                     26-JAN-04
+     Cha-Employee             1324       31563                    19-JUN-15
+     Tmag_Mgr                 1013696    31599                    23-JUL-15
+
+
+                                  Supplier Det
+
+
+
+     Vendor Name              Created By Employee      Vat Code   Start Dat
+     Tmag_Clrk                1013696    31598                    23-JUL-15
+     Bala                     1013676    31579                    07-JUL-15
+     Mel Diner                1318       4040                     12-JAN-16
+     V Lakshman               1014099    31819                    13-JAN-16
